@@ -2,13 +2,38 @@
 <svg
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 111.42857 11.428571"
+   viewBox="0 0 111.42857 11.428569"
    version="1.1"
+   sodipodi:docname="DX hackathon.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-batch-path="DxHub"
+   inkscape:export-batch-name="DX hackathon"
    width="39"
-   height="4"
+   height="3.999999"
    xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview53"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="7.5277775"
+     inkscape:cx="4.583026"
+     inkscape:cy="61.970482"
+     inkscape:window-width="1920"
+     inkscape:window-height="1094"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7"
+     showguides="false" /><defs
      id="defs1"><style
        id="style1">
       .cls-1 {
@@ -22,12 +47,21 @@
       .cls-2 {
         fill: #fff;
       }
+    </style><style
+       id="style1-8">
+      .st0 {
+        fill: #fff;
+      }
     </style></defs><g
+     inkscape:groupmode="layer"
      id="layer6"
-     transform="translate(-52.087507,-67.269373)"><rect
+     inkscape:label="label"
+     style="display:inline"
+     transform="translate(-52.087509,-67.269375)"><rect
        style="fill:none;stroke:#ffffff;stroke-width:2.85714;stroke-dasharray:2.85714, 2.85714;stroke-dashoffset:0;stroke-opacity:1"
        id="rect1"
        height="8.5714283"
        x="53.516079"
        y="68.697945"
-       width="108.57143" /></g></svg>
+       width="108.57143"
+       inkscape:label="label" /></g></svg>

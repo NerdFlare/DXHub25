@@ -6,8 +6,30 @@
    version="1.1"
    width="75.709831"
    height="75.704559"
+   sodipodi:docname="DX hackathon_PR4.svg"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="3.4860159"
+     inkscape:cx="26.391159"
+     inkscape:cy="97.245684"
+     inkscape:window-width="1632"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="44"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
   <defs
      id="defs1">
     <style
@@ -35,7 +57,7 @@
        id="path79"
        transform="translate(0.18897648,0.10976217)" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"
+       style="display:none;fill:none;stroke:#000000;stroke-width:0.377953;stroke-dasharray:none;stroke-opacity:1"
        d="m 0.18897648,114.03833 c 0,-2.96 0,-5.92 0,-8.88 0.03,-0.15 0.07,-0.31 0.09,-0.46 0.3,-3.36 0.49,-6.729996 0.93000002,-10.069996 0.91,-6.91 2.54,-13.67 4.84,-20.26 7.2999995,-20.87 19.7799995,-38 37.4599995,-51.25 17.89,-13.4100004 38.13,-20.4700004 60.470004,-21.4100004 6.23,-0.26 12.45,0.04 18.65,0.88 6.58,0.9 13.02,2.34 19.32,4.44 17.09,5.6800004 31.86,15.0400004 44.32,28.0500004 7.27,7.59 13.3,16.08 18.08,25.45 7.2,14.1 11.07,29.09 11.69,44.899996 0.24,6.09 -0.02,12.18 -0.82,18.23 -0.89,6.72 -2.36,13.3 -4.5,19.73 -5.68,17.09 -15.04,31.87 -28.05,44.32 -10.03,9.59 -21.49,16.97 -34.37,22.14 -10.54,4.23 -21.47,6.72 -32.81,7.46 -0.97,0.06 -1.94,0.15 -2.91,0.23 h -8.88 c -0.15,-0.03 -0.3,-0.07 -0.46,-0.09 -3.04,-0.26 -6.090004,-0.42 -9.120004,-0.8 -6.74,-0.83 -13.34,-2.34 -19.79,-4.49 -17.09,-5.68 -31.86,-15.04 -44.31,-28.05 -9.59,-10.03 -16.97,-21.49 -22.1399995,-34.37 -4.23,-10.53 -6.72,-21.46 -7.46000002,-32.79 -0.06,-0.97 -0.15,-1.94 -0.23,-2.91 z"
        id="path54" />
     <path
